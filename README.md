@@ -8,7 +8,7 @@ My research interests are:
 - early chilhood workforce
 - children's socio-emotional development
   - emotion regulation
-  -delayed gratification
+  - delayed gratification
 - early math learning
 
 **Thank you for reading my biography.**
