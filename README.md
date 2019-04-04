@@ -12,5 +12,5 @@ My research interests are:
 - early math learning
 
 **Thank you for reading my biography.**
-![Image of Thank You](http://district29pto.org/wp-content/uploads/2018/09/thankyou.jpg){:height="10%" width="10%"}
+![Image of Thank You](http://district29pto.org/wp-content/uploads/2018/09/thankyou.jpg =250x250)
 
