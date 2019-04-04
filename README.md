@@ -2,7 +2,7 @@
 
 ### Yiran Ouyang
 
-I am a developmental psychology Masters candidate in the *MA Program in Social Sciences*. I work as a part-time research assistant in the Cognitive Development Lab at the University of Chicago. Here is a link to the [Cognitive Development Lab](https://cogdevlab.uchicago.edu)'s website.
+I am a Masters candidate in the *MA Program in Social Sciences*, concentrating in developmental psychology. I work as a part-time research assistant at the Cognitive Development Lab. Here is a link to the [Cognitive Development Lab](https://cogdevlab.uchicago.edu)'s website.
 
 My research interests are:
 - early chilhood workforce
@@ -12,4 +12,5 @@ My research interests are:
 - early math learning
 
 **Thank you for reading my biography.**
-<img src="http://district29pto.org/wp-content/uploads/2018/09/thankyou.jpg" length= "300" width="257">
+
+<img src="http://district29pto.org/wp-content/uploads/2018/09/thankyou.jpg" length= "280" width="257">
