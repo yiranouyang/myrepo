@@ -1,6 +1,4 @@
-# CFSS HW01
-
-## Biography
+# CFSS HW01: Biography
 
 ### Yiran Ouyang
 
